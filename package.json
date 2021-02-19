@@ -11,7 +11,8 @@
   },
   "dependencies": {
     "react": "16.13.1",
-    "react-native": "0.63.4"
+    "react-native": "0.63.4",
+    "react-native-fs": "^2.16.6"
   },
   "devDependencies": {
     "@babel/core": "7.12.16",
@@ -21,6 +22,8 @@
     "eslint": "6.8.0",
     "jest": "25.5.4",
     "metro-react-native-babel-preset": "0.59.0",
+    "react-native-get-music-files": "^2.1.0",
+    "react-native-permissions": "^3.0.0",
     "react-test-renderer": "16.13.1"
   },
   "jest": {
